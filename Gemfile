@@ -7,7 +7,7 @@ gem 'sqlite3', '1.3.4'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
-  gem 'annotate', '2.4.0'
+  gem 'annotate', '2.6.7'
   gem 'faker', '0.3.1'
 end
 
